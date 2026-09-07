@@ -311,14 +311,6 @@ If you can successfully:
 
 **Congratulations! You've built a working REST API!** 🎉
 
-## 📧 Questions?
-
-If you have questions:
-1. Check the error message in the terminal
-2. Review the relevant section of app.py
-3. Ask your instructor
-4. Use GenAI: "I'm getting error X when doing Y, what does it mean?"
-
 ---
 
 **Built with ❤️ for learning Python and APIs**
